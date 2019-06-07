@@ -37,7 +37,7 @@ Storage: 35 GB available space
 
 
 
-##Software Requirements
+## Software Requirements
 
 
 OS: Windows 7 or above
