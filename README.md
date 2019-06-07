@@ -19,7 +19,7 @@ There is no other course that can transform every corner of your Python code. Af
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:
 <br/>
-Knowledge of Pandas, data science, and Python
+Basic knowledge of Python programming
 
 ### Technical Requirements
 This course has the following software requirements:
