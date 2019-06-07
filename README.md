@@ -45,7 +45,8 @@ OS: Windows 7 or above
 Browser: Google Chrome, latest version
 
 Code editor: Atom IDE, latest version (Jupyter Notebook or Jupyter Lab)
-Others: Python3 installed using the Anaconda package or equivalent; TensorFlow r1.4 
+
+Others: Python3 installed using the Anaconda package or equivalent 
 
 
 ## Related Products
